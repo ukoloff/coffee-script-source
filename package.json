@@ -1,0 +1,29 @@
+{
+  "name": "coffee-script-source",
+  "version": "0.0.1",
+  "description": "Alternative CoffeeScript for browser",
+  "main": "lib",
+  "scripts": {
+    "start": "node node_modules/coffee418"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ukoloff/coffee-script-source.git"
+  },
+  "keywords": [
+    "javascript",
+    "coffee",
+    "coffee-script",
+    "browserify",
+    "coffee418"
+  ],
+  "author": {
+    "name": "Stas Ukolov",
+    "email": "ukoloff@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukoloff/coffee-script-source/issues"
+  },
+  "homepage": "https://github.com/ukoloff/coffee-script-source"
+}
