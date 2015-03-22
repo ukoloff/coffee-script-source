@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/ukoloff/coffee-script-source/issues"
   },
-  "homepage": "https://github.com/ukoloff/coffee-script-source"
+  "homepage": "https://github.com/ukoloff/coffee-script-source",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "coffee418": "0.0.1"
+  }
 }
